@@ -1,6 +1,6 @@
 # How to find jobs
 
-# General search
+## General search
 
 ```
 E.g. Be creative with the terms used to search jobs on Google
@@ -39,7 +39,7 @@ https://www.smartrecruiters.com
 7. [https://recruitment.tinycapital.com/](https://recruitment.tinycapital.com/)
 8. [https://www.roberthalf.com/](https://www.roberthalf.com/)
 
-One more way to search: -
+## One more way to search: -
 
 Search for CMU courses or other popular courses like Stanford's CS 224n on LinkedIn and find people who had taken those courses in their past and where are they working right now. 
 
