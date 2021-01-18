@@ -1,6 +1,16 @@
 # Coding practice
 
-Resources: -
+## Resources for revision:
+
+1. Coursera algorithms [Algorithms - Part 1](https://www.coursera.org/learn/algorithms-part1) | [Algorithms - Part 2](https://www.coursera.org/learn/algorithms-part2)
+
+2. Basics of SQL [SQL for data science](https://www.coursera.org/learn/sql-for-data-science)
+
+3. Machine learning revision notes [createmomo.github.io](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/)
+
+4. Deep Learning Andrew NG class notes [Slideshare](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+
+## Resources for practice:
 
 1. Medium to advanced but good algorithms and data structures
     1. [https://cp-algorithms.com/](https://cp-algorithms.com/)
