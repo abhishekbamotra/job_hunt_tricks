@@ -50,4 +50,6 @@ Focus on CMU ML courses like 10605, 10703, robotics courses like SLAM 16833
 "16833" "cmu" site:linkedin.com
 ```
 
-[Coding practice](https://github.com/abhishekbamotra/job_hunt_tricks/blob/main/Coding%20practice.md)
+## [Coding practice](https://github.com/abhishekbamotra/job_hunt_tricks/blob/main/Coding%20practice.md)
+
+## [List of applications](https://www.notion.so/2384d3f56063477d887eb4fce6b9035d?v=abfba7ce751e4492838793a70ca6f39a)
